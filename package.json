@@ -1,0 +1,38 @@
+{
+  "name": "LegoCSS",
+  "version": "0.1.0",
+  "description": "A extremely light-weight css framework for your website.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwsun/lego-css.git"
+  },
+  "keywords": [
+    "css",
+    "css framework"
+  ],
+  "author": "Weiwei SUN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wwsun/lego-css/issues"
+  },
+  "homepage": "https://github.com/wwsun/lego-css#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-less": "^3.0.5",
+    "gulp-live-server": "0.0.29",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.7"
+  }
+}
