@@ -1,13 +1,13 @@
-# lego-css
+# seu-css
 A extremely light-weight css framework for your website.
 
 ## Use
 
-Use npm to download lego-css
+Use npm to download seu-css
 
-    npm install lego-css --save
+    npm install seu-css --save
     
-Import the lego-css.css in your HTML file.
+Import the seu-css.css in your HTML file.
 
 ## Build
 
