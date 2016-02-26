@@ -1,5 +1,17 @@
+// main colors
+@color-primary: #003366;
+@color-success: #0066cc;
+@color-danger: #cc3333;
+@color-warning: #cccc00;
+
 // global
 @body-bg: #fff;
+@text-color: #000;
+
+@link-color: @color-primary;
+@link-hover-color: darken(@link-color, 15%);
+@link-hover-decoration: underline;
+
 
 // device width
 @screen-phone: 480px;
@@ -20,3 +32,23 @@
 @len-3: 25%;
 @len-2: 16.66666667%;
 @len-1: 8.33333333%;
+
+// font
+@font-family-default: Helvetica, Arial, Sim-Yahei, sans-serif;
+
+@font-size-default: 14px;
+@font-size-large: ceil((@font-size-default * 1.25));
+@font-size-small: ceil((@font-family-default * 0.25));
+
+@font-size-h1: ceil((@font-size-default * 2.6));
+@font-size-h2: ceil((@font-size-default * 2.15));
+@font-size-h3: ceil((@font-size-default * 1.7));
+@font-size-h4: ceil((@font-size-default * 1.25));
+@font-size-h5: @font-size-default;
+@font-size-h6: ceil((@font-size-default * 0.85));
+
+@line-height-default: 1.428571429; // 20/14
+
+@border-radius-default: 4px;
+@border-radius-large: 6px;
+@border-radius-small: 3px;
