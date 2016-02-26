@@ -1,5 +1,5 @@
 {
-  "name": "lego-css",
+  "name": "seu-css",
   "version": "0.1.0",
   "description": "A extremely light-weight css framework for your website.",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wwsun/lego-css.git"
+    "url": "git+https://github.com/wwsun/seu-css.git"
   },
   "keywords": [
     "css",
@@ -20,9 +20,9 @@
   "author": "Weiwei SUN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wwsun/lego-css/issues"
+    "url": "https://github.com/wwsun/seu-css/issues"
   },
-  "homepage": "https://github.com/wwsun/lego-css#readme",
+  "homepage": "https://github.com/wwsun/seu-css#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
