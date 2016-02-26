@@ -14,8 +14,14 @@ Import the seu-css.css in your HTML file.
 Rebuild the less to css, execute the following commands:
 
     npm install
+    gulp build-css
+    
+or execute
+
     gulp
     
+to watch the file changes.
+
 ## Docs
 
 12 columns grid system
