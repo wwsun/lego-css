@@ -1,6 +1,6 @@
 {
   "name": "seu-css",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A extremely light-weight css framework for your website.",
   "main": "index.js",
   "directories": {
