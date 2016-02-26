@@ -5,7 +5,7 @@ var plugins = require('gulp-load-plugins')();
 gulp.task('default', [ 'watch' ]);
 
 gulp.task('build-css', function () {
-  return gulp.src('less/legocss.less')
+  return gulp.src('less/seu-css.less')
     .pipe(plugins.plumber())
     .pipe(plugins.less())
     .on('error', function (err) {
