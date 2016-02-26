@@ -1,5 +1,5 @@
 {
-  "name": "LegoCSS",
+  "name": "lego-css",
   "version": "0.1.0",
   "description": "A extremely light-weight css framework for your website.",
   "main": "index.js",
